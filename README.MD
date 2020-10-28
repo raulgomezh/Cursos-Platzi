@@ -1,6 +1,6 @@
-# Cursos tomados en Platzi
+# Cursos
 
-Es repositorio me servirá para subir los cursos que voy tomando en Plazti y practicar el uso de Git y GitHub.
+Es repositorio me servirá para subir los cursos que voy tomando y practicar el uso de Git y GitHub.
 
 ## Tabla de contenido
 
